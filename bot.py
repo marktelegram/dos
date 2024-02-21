@@ -5,7 +5,7 @@ import urllib
 import discord
 from discord.ext import commands
 
-TOKEN = "MTIwODMyOTI0NjU1Mjg4MzIxMA.G_wLQG.h0Y7s5evYXBqv_XrfXGvq0bk_47cVOA6ta_BSM"
+TOKEN = "MTIwODMyOTI0NjU1Mjg4MzIxMA.GM5Gpm.fLxrXVBBslz2Auy_gPdDjyfSqlDQeQDlamnq5Q"
 methods_list = ['join', 'legitjoin', 'localhost', 'invalidnames', 'longnames', 'botjoiner', 'spoof', 'ping', 'nullping', 'multikiller', 'handshake', 'bighandshake', 'query', 'bigpacket', 'network', 'randombytes', 'extremejoin', 'spamjoin', 'nettydowner', 'ram', 'yoonikscry', 'colorcrasher', 'tcphit', 'queue', 'botnet', 'tcpbypass', 'ultimatesmasher', 'sf', 'nabcry']
 
 timebotter = commands.Bot(command_prefix='$', intents=discord.Intents.all())
